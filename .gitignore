@@ -17,7 +17,6 @@ migrate_working_dir/
 .idea/
 
 # VS Code related
-.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -95,3 +94,5 @@ coverage/
 # Temporary files
 *.tmp
 *.temp
+config.bat
+node_modules
