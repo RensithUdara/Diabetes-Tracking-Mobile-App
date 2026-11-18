@@ -94,5 +94,5 @@ coverage/
 # Temporary files
 *.tmp
 *.temp
-config.bat
 node_modules
+.vscode/
